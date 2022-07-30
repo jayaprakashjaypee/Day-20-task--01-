@@ -1,0 +1,10 @@
+.imagesize{
+    height: 400px;
+}
+.zooanimals{
+    text-align: center;
+}
+.getbtn{
+    display: flex;
+    justify-content: center;
+}
